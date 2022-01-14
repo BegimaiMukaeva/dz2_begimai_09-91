@@ -1,0 +1,10 @@
+body{
+   height: 100vh;
+    background: #ffffff url('./images/timer.jpg') no-repeat center;
+    background-size: cover;
+}
+.contend {
+    width: 80%;
+    margin: 80px auto;
+}
+
